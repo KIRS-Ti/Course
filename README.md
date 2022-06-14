@@ -1,3 +1,3 @@
-# Course Okten school
+# Course Wayup
 Use simple commands in the Git repository
-Tests
+Resume
